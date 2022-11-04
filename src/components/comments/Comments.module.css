@@ -1,0 +1,11 @@
+.comments {
+  text-align: center;
+}
+
+.comments > button {
+  font-size: 2.8rem;
+  background-color: aquamarine;
+  color: white;
+  padding: 2rem 3rem;
+  border: none;
+}
